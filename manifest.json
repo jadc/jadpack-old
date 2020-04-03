@@ -1,0 +1,798 @@
+{
+    "author": "jadc",
+    "files": [
+        {
+            "alias": "BetterFps (BetterFps-1.4.8.jar)",
+            "fileID": 2483393,
+            "projectID": 229876,
+            "required": true
+        },
+        {
+            "alias": "ReAuth (reauth-3.6.0.jar)",
+            "fileID": 2560638,
+            "projectID": 237701,
+            "required": true
+        },
+        {
+            "alias": "FastWorkbench (FastWorkbench-1.12.2-1.7.3.jar)",
+            "fileID": 2838777,
+            "projectID": 288885,
+            "required": true
+        },
+        {
+            "alias": "Clumps (Clumps-3.1.2.jar)",
+            "fileID": 2666198,
+            "projectID": 256717,
+            "required": true
+        },
+        {
+            "alias": "FastFurnace (FastFurnace-1.12.2-1.3.1.jar)",
+            "fileID": 2706111,
+            "projectID": 299540,
+            "required": true
+        },
+        {
+            "alias": "Fast Leaf Decay (FastLeafDecay-v14.jar)",
+            "fileID": 2463272,
+            "projectID": 230976,
+            "required": true
+        },
+        {
+            "alias": "Phosphor (Forge) (phosphor-forge-mc1.12.2-0.2.7-universal.jar)",
+            "fileID": 2919497,
+            "projectID": 318255,
+            "required": true
+        },
+        {
+            "alias": "Akashic Tome (AkashicTome-1.2-12.jar)",
+            "fileID": 2648656,
+            "projectID": 250577,
+            "required": true
+        },
+        {
+            "alias": "UniDict (UniDict-1.12.2-2.9.6.jar)",
+            "fileID": 2880863,
+            "projectID": 244258,
+            "required": true
+        },
+        {
+            "alias": "NetherPortalFix (NetherPortalFix_1.12.1-5.3.17.jar)",
+            "fileID": 2612052,
+            "projectID": 241160,
+            "required": true
+        },
+        {
+            "alias": "VanillaFix (VanillaFix-1.0.10-150.jar)",
+            "fileID": 2915154,
+            "projectID": 292785,
+            "required": true
+        },
+        {
+            "alias": "AI Improvements (AIImprovements-1.12-0.0.1b3.jar)",
+            "fileID": 2450734,
+            "projectID": 233019,
+            "required": true
+        },
+        {
+            "alias": "Mod Name Tooltip (modnametooltip_1.12.2-1.10.1.jar)",
+            "fileID": 2739582,
+            "projectID": 238747,
+            "required": true
+        },
+        {
+            "alias": "Xaero's Minimap (Xaeros_Minimap_20.5.2_Forge_1.12.jar)",
+            "fileID": 2904483,
+            "projectID": 263420,
+            "required": true
+        },
+        {
+            "alias": "No Recipe Book (noRecipeBook_v1.2.2formc1.12.2.jar)",
+            "fileID": 2568865,
+            "projectID": 284904,
+            "required": true
+        },
+        {
+            "alias": "Ding (Ding-1.12.2-1.0.2.jar)",
+            "fileID": 2801170,
+            "projectID": 231275,
+            "required": true
+        },
+        {
+            "alias": "AttributeFix (AttributeFix-1.12.2-1.0.10.jar)",
+            "fileID": 2810157,
+            "projectID": 280510,
+            "required": true
+        },
+        {
+            "alias": "Chunk-Pregenerator (Chunk Pregenerator V1.12-2.2.jar)",
+            "fileID": 2811832,
+            "projectID": 267193,
+            "required": true
+        },
+        {
+            "alias": "Just Enough Items (JEI) (jei_1.12.2-4.15.0.293.jar)",
+            "fileID": 2847112,
+            "projectID": 238222,
+            "required": true
+        },
+        {
+            "alias": "AutoRegLib (AutoRegLib-1.3-32.jar)",
+            "fileID": 2746011,
+            "projectID": 250363,
+            "required": true
+        },
+        {
+            "alias": "WanionLib (WanionLib-1.12.2-2.4.jar)",
+            "fileID": 2807433,
+            "projectID": 253043,
+            "required": true
+        },
+        {
+            "alias": "FoamFix\u200b (foamfix-0.10.10-1.12.2.jar)",
+            "fileID": 2845668,
+            "projectID": 278494,
+            "required": true
+        },
+        {
+            "alias": "Just Enough Resources (JER) (JustEnoughResources-1.12.2-0.9.2.60.jar)",
+            "fileID": 2728585,
+            "projectID": 240630,
+            "required": true
+        },
+        {
+            "alias": "Bad Wither No Cookie - Reloaded (badwithernocookiereloaded-1.12.2-3.3.16.jar)",
+            "fileID": 2638317,
+            "projectID": 261251,
+            "required": true
+        },
+        {
+            "alias": "AttributeFix (AttributeFix-1.12.2-1.0.10.jar)",
+            "fileID": 2810157,
+            "projectID": 280510,
+            "required": true
+        },
+        {
+            "alias": "Blur (Blur-1.0.4-14.jar)",
+            "fileID": 2460821,
+            "projectID": 268324,
+            "required": true
+        },
+        {
+            "alias": "Tinkers Construct (TConstruct-1.12.2-2.13.0.183.jar)",
+            "fileID": 2902483,
+            "projectID": 74072,
+            "required": true
+        },
+        {
+            "alias": "MrCrayfish's Vehicle Mod (vehicle-mod-0.43.5-1.12.2.jar)",
+            "fileID": 2906955,
+            "projectID": 286660,
+            "required": true
+        },
+        {
+            "alias": "ViesCraft - Airships! (ViesCraft-1.12.2-5.9.16.jar)",
+            "fileID": 2909295,
+            "projectID": 246795,
+            "required": true
+        },
+        {
+            "alias": "Biome Bundle (Biome_Bundle-1.12.2-v6.1.jar)",
+            "fileID": 2505277,
+            "projectID": 241542,
+            "required": true
+        },
+        {
+            "alias": "Open Terrain Generator (OpenTerrainGenerator / OTG) (OpenTerrainGenerator-1.12.2 - v8.3.jar)",
+            "fileID": 2835526,
+            "projectID": 265894,
+            "required": true
+        },
+        {
+            "alias": "Techguns (techguns-1.12.2-2.0.2.0_pre3.1.jar)",
+            "fileID": 2717691,
+            "projectID": 244201,
+            "required": true
+        },
+        {
+            "alias": "Baubles (Baubles-1.12-1.5.2.jar)",
+            "fileID": 2518667,
+            "projectID": 227083,
+            "required": true
+        },
+        {
+            "alias": "Chisel (Chisel-MC1.12.2-1.0.2.45.jar)",
+            "fileID": 2915375,
+            "projectID": 235279,
+            "required": true
+        },
+        {
+            "alias": "Chisels & Bits (chiselsandbits-14.33.jar)",
+            "fileID": 2720655,
+            "projectID": 231095,
+            "required": true
+        },
+        {
+            "alias": "AppleSkin (AppleSkin-mc1.12-1.0.9.jar)",
+            "fileID": 2496585,
+            "projectID": 248787,
+            "required": true
+        },
+        {
+            "alias": "Custom Main Menu (CustomMainMenu-MC1.12.2-2.0.9.1.jar)",
+            "fileID": 2857869,
+            "projectID": 226406,
+            "required": true
+        },
+        {
+            "alias": "Iron Chests (ironchest-1.12.2-7.0.72.847.jar)",
+            "fileID": 2747935,
+            "projectID": 228756,
+            "required": true
+        },
+        {
+            "alias": "The Twilight Forest (twilightforest-1.12.2-3.10.1013-universal.jar)",
+            "fileID": 2818055,
+            "projectID": 227639,
+            "required": true
+        },
+        {
+            "alias": "Pam's HarvestCraft (Pam's HarvestCraft 1.12.2zg.jar)",
+            "fileID": 2904825,
+            "projectID": 221857,
+            "required": true
+        },
+        {
+            "alias": "Quark (Quark-r1.6-178.jar)",
+            "fileID": 2889332,
+            "projectID": 243121,
+            "required": true
+        },
+        {
+            "alias": "Botania (Botania r1.10-363.jar)",
+            "fileID": 2846950,
+            "projectID": 225643,
+            "required": true
+        },
+        {
+            "alias": "Tinkers' Tool Leveling (TinkerToolLeveling-1.12.2-1.1.0.jar)",
+            "fileID": 2630860,
+            "projectID": 250957,
+            "required": true
+        },
+        {
+            "alias": "KleeSlabs (KleeSlabs_1.12.2-5.4.12.jar)",
+            "fileID": 2733525,
+            "projectID": 241895,
+            "required": true
+        },
+        {
+            "alias": "Portal Gun (PortalGun-1.12.2-7.1.0.jar)",
+            "fileID": 2684033,
+            "projectID": 229084,
+            "required": true
+        },
+        {
+            "alias": "Psi (Psi-r1.1-77.jar)",
+            "fileID": 2724967,
+            "projectID": 241665,
+            "required": true
+        },
+        {
+            "alias": "Storage Drawers (StorageDrawers-1.12.2-5.4.1.jar)",
+            "fileID": 2887858,
+            "projectID": 223852,
+            "required": true
+        },
+        {
+            "alias": "Chameleon (Chameleon-1.12-4.1.3.jar)",
+            "fileID": 2450900,
+            "projectID": 230497,
+            "required": true
+        },
+        {
+            "alias": "Potion Fingers (PotionFingers-r1.0-2.jar)",
+            "fileID": 2491881,
+            "projectID": 280144,
+            "required": true
+        },
+        {
+            "alias": "Avaritia 1.1x (Avaritia-1.12.2-3.3.0.33-universal.jar)",
+            "fileID": 2660801,
+            "projectID": 261348,
+            "required": true
+        },
+        {
+            "alias": "Blood Magic  (BloodMagic-1.12.2-2.4.3-105.jar)",
+            "fileID": 2822288,
+            "projectID": 224791,
+            "required": true
+        },
+        {
+            "alias": "Chest Transporter (ChestTransporter-1.12.2-2.8.8.jar)",
+            "fileID": 2524058,
+            "projectID": 78778,
+            "required": true
+        },
+        {
+            "alias": "Morpheus (Morpheus-1.12.2-3.5.106.jar)",
+            "fileID": 2664449,
+            "projectID": 69118,
+            "required": true
+        },
+        {
+            "alias": "Emoticons (emoticons-0.4.3-1.12.2-dist.jar)",
+            "fileID": 2896464,
+            "projectID": 311624,
+            "required": true
+        },
+        {
+            "alias": "Mob Grinding Utils (MobGrindingUtils-0.3.13.jar)",
+            "fileID": 2656683,
+            "projectID": 254241,
+            "required": true
+        },
+        {
+            "alias": "Better Foliage (BetterFoliage-MC1.12-2.3.1.jar)",
+            "fileID": 2852872,
+            "projectID": 228529,
+            "required": true
+        },
+        {
+            "alias": "Shadowfacts' Forgelin (Forgelin-1.8.4.jar)",
+            "fileID": 2785465,
+            "projectID": 248453,
+            "required": true
+        },
+        {
+            "alias": "CodeChicken Lib 1.8.+ (CodeChickenLib-1.12.2-3.2.3.358-universal.jar)",
+            "fileID": 2779848,
+            "projectID": 242818,
+            "required": true
+        },
+        {
+            "alias": "Guide-API (Guide-API-1.12-2.1.8-63.jar)",
+            "fileID": 2645992,
+            "projectID": 228832,
+            "required": true
+        },
+        {
+            "alias": "ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31.jar)",
+            "fileID": 2915363,
+            "projectID": 267602,
+            "required": true
+        },
+        {
+            "alias": "McHorse's McLib (mclib-1.0.4-1.12.2.jar)",
+            "fileID": 2843154,
+            "projectID": 304750,
+            "required": true
+        },
+        {
+            "alias": "Track API (TrackAPI-1.2.jar)",
+            "fileID": 2825260,
+            "projectID": 282613,
+            "required": true
+        },
+        {
+            "alias": "iChunUtil (iChunUtil-1.12.2-7.2.2.jar)",
+            "fileID": 2801262,
+            "projectID": 229060,
+            "required": true
+        },
+        {
+            "alias": "Mantle (Mantle-1.12-1.3.3.55.jar)",
+            "fileID": 2713386,
+            "projectID": 74924,
+            "required": true
+        },
+        {
+            "alias": "Obfuscate (obfuscate-0.4.2-1.12.2.jar)",
+            "fileID": 2916310,
+            "projectID": 289380,
+            "required": true
+        },
+        {
+            "alias": "Doggy Talents (DoggyTalents-1.12.2-1.15.1.4-universal.jar)",
+            "fileID": 2775870,
+            "projectID": 271050,
+            "required": true
+        },
+        {
+            "alias": "Trumpet Skeleton (trumpetskeleton-1.12-1.0.2.1.jar)",
+            "fileID": 2549462,
+            "projectID": 279311,
+            "required": true
+        },
+        {
+            "alias": "Construct's Armory (conarm-1.12.2-1.2.5.4.jar)",
+            "fileID": 2882794,
+            "projectID": 287683,
+            "required": true
+        },
+        {
+            "alias": "Flux Networks (fluxnetworks-1.12.2-4.0.14-31.jar)",
+            "fileID": 2842381,
+            "projectID": 248020,
+            "required": true
+        },
+        {
+            "alias": "Refined Storage Addons (refinedstorageaddons-0.4.4.jar)",
+            "fileID": 2690723,
+            "projectID": 272302,
+            "required": true
+        },
+        {
+            "alias": "Integration Foregoing (IntegrationForegoing-1.12.2-1.10.jar)",
+            "fileID": 2904594,
+            "projectID": 277938,
+            "required": true
+        },
+        {
+            "alias": "RFTools Dimensions (rftoolsdim-1.12-5.71.jar)",
+            "fileID": 2707390,
+            "projectID": 240950,
+            "required": true
+        },
+        {
+            "alias": "Just Enough HarvestCraft (JEHC) (just-enough-harvestcraft-1.12.2-1.7.0.jar)",
+            "fileID": 2849443,
+            "projectID": 267939,
+            "required": true
+        },
+        {
+            "alias": "/dank/null (DankNull-1.12.2-1.7.90.jar)",
+            "fileID": 2915364,
+            "projectID": 272514,
+            "required": true
+        },
+        {
+            "alias": "Ice and Fire:  Dragons in a whole new light! (iceandfire-1.8.4.jar)",
+            "fileID": 2874453,
+            "projectID": 264231,
+            "required": true
+        },
+        {
+            "alias": "Actually Baubles (ActuallyBaubles-1.12-1.1.jar)",
+            "fileID": 2459131,
+            "projectID": 273430,
+            "required": true
+        },
+        {
+            "alias": "Snad (Snad-1.12.1-1.7.09.16a.jar)",
+            "fileID": 2480458,
+            "projectID": 241344,
+            "required": true
+        },
+        {
+            "alias": "Fence Jumper (fencejumper-1.12-1.0.5.jar)",
+            "fileID": 2591087,
+            "projectID": 254652,
+            "required": true
+        },
+        {
+            "alias": "Tinker's JEI (tinkersjei-1.2.jar)",
+            "fileID": 2701203,
+            "projectID": 291786,
+            "required": true
+        },
+        {
+            "alias": "Overloaded Armor Bar (overloadedarmorbar-1.0.4g.jar)",
+            "fileID": 2719400,
+            "projectID": 314002,
+            "required": true
+        },
+        {
+            "alias": "Wolf Armor and Storage (wolfarmor-1.12.2-3.3.0.279-SNAPSHOT-all.jar)",
+            "fileID": 2722126,
+            "projectID": 253689,
+            "required": true
+        },
+        {
+            "alias": "Animania (animania-1.12.2-1.7.3.jar)",
+            "fileID": 2814991,
+            "projectID": 261199,
+            "required": true
+        },
+        {
+            "alias": "Moar Tinkers (moartinkers-0.6.0.jar)",
+            "fileID": 2579934,
+            "projectID": 263624,
+            "required": true
+        },
+        {
+            "alias": "Mouse Tweaks (MouseTweaks-2.10-mc1.12.2.jar)",
+            "fileID": 2671937,
+            "projectID": 60089,
+            "required": true
+        },
+        {
+            "alias": "Extra Utilities (extrautils2-1.12-1.9.9.jar)",
+            "fileID": 2678374,
+            "projectID": 225561,
+            "required": true
+        },
+        {
+            "alias": "Immersive Engineering (ImmersiveEngineering-0.12-92.jar)",
+            "fileID": 2799143,
+            "projectID": 231951,
+            "required": true
+        },
+        {
+            "alias": "Industrial Foregoing (industrialforegoing-1.12.2-1.12.13-237.jar)",
+            "fileID": 2745321,
+            "projectID": 266515,
+            "required": true
+        },
+        {
+            "alias": "Thermal Dynamics (ThermalDynamics-1.12.2-2.5.5.21-universal.jar)",
+            "fileID": 2716138,
+            "projectID": 227443,
+            "required": true
+        },
+        {
+            "alias": "Ender Storage 1.8.+ (EnderStorage-1.12.2-2.4.6.137-universal.jar)",
+            "fileID": 2755787,
+            "projectID": 245174,
+            "required": true
+        },
+        {
+            "alias": "Mekanism (Mekanism-1.12.2-9.8.3.390.jar)",
+            "fileID": 2835175,
+            "projectID": 268560,
+            "required": true
+        },
+        {
+            "alias": "Thermal Expansion (ThermalExpansion-1.12.2-5.5.4.43-universal.jar)",
+            "fileID": 2715789,
+            "projectID": 69163,
+            "required": true
+        },
+        {
+            "alias": "Ender IO (EnderIO-1.12.2-5.1.55.jar)",
+            "fileID": 2858816,
+            "projectID": 64578,
+            "required": true
+        },
+        {
+            "alias": "Dark Utilities (DarkUtils-1.12.2-1.8.230.jar)",
+            "fileID": 2813586,
+            "projectID": 242195,
+            "required": true
+        },
+        {
+            "alias": "RFTools (rftools-1.12-7.73.jar)",
+            "fileID": 2861573,
+            "projectID": 224641,
+            "required": true
+        },
+        {
+            "alias": "Actually Additions (ActuallyAdditions-1.12.2-r151-2.jar)",
+            "fileID": 2844115,
+            "projectID": 228404,
+            "required": true
+        },
+        {
+            "alias": "Refined Storage (refinedstorage-1.6.15.jar)",
+            "fileID": 2745458,
+            "projectID": 243076,
+            "required": true
+        },
+        {
+            "alias": "Astral Sorcery (astralsorcery-1.12.2-1.10.23.jar)",
+            "fileID": 2920254,
+            "projectID": 241721,
+            "required": true
+        },
+        {
+            "alias": "Draconic Evolution (Draconic-Evolution-1.12.2-2.3.25.351-universal.jar)",
+            "fileID": 2867186,
+            "projectID": 223565,
+            "required": true
+        },
+        {
+            "alias": "Iron Backpacks (IronBackpacks-1.12.2-3.0.8-12.jar)",
+            "fileID": 2564573,
+            "projectID": 227049,
+            "required": true
+        },
+        {
+            "alias": "LLibrary (llibrary-1.7.19-1.12.2.jar)",
+            "fileID": 2704186,
+            "projectID": 243298,
+            "required": true
+        },
+        {
+            "alias": "CraftStudio API (CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar)",
+            "fileID": 2661859,
+            "projectID": 268704,
+            "required": true
+        },
+        {
+            "alias": "p455w0rd's Library (p455w0rdslib-1.12.2-2.3.161.jar)",
+            "fileID": 2830265,
+            "projectID": 255232,
+            "required": true
+        },
+        {
+            "alias": "Bookshelf (Bookshelf-1.12.2-2.3.590.jar)",
+            "fileID": 2836960,
+            "projectID": 228525,
+            "required": true
+        },
+        {
+            "alias": "Brandon's Core (BrandonsCore-1.12.2-2.4.18.210-universal.jar)",
+            "fileID": 2867147,
+            "projectID": 231382,
+            "required": true
+        },
+        {
+            "alias": "EnderCore (EnderCore-1.12.2-0.5.74.jar)",
+            "fileID": 2861615,
+            "projectID": 231868,
+            "required": true
+        },
+        {
+            "alias": "Tesla Core Lib (tesla-core-lib-1.12.2-1.0.17.jar)",
+            "fileID": 2891841,
+            "projectID": 254602,
+            "required": true
+        },
+        {
+            "alias": "GunpowderLib (GunpowderLib-1.12.2-1.0.jar)",
+            "fileID": 2852431,
+            "projectID": 356646,
+            "required": true
+        },
+        {
+            "alias": "McJtyLib (mcjtylib-1.12-3.5.4.jar)",
+            "fileID": 2745846,
+            "projectID": 233105,
+            "required": true
+        },
+        {
+            "alias": "Thermal Foundation (ThermalFoundation-1.12.2-2.6.3.27-universal.jar)",
+            "fileID": 2715788,
+            "projectID": 222880,
+            "required": true
+        },
+        {
+            "alias": "CoFH Core (CoFHCore-1.12.2-4.6.3.27-universal.jar)",
+            "fileID": 2716100,
+            "projectID": 69162,
+            "required": true
+        },
+        {
+            "alias": "CoFH World (CoFHWorld-1.12.2-1.3.1.7-universal.jar)",
+            "fileID": 2715784,
+            "projectID": 271384,
+            "required": true
+        },
+        {
+            "alias": "Redstone Flux (RedstoneFlux-1.12-2.1.0.6-universal.jar)",
+            "fileID": 2623090,
+            "projectID": 270789,
+            "required": true
+        },
+        {
+            "alias": "Hwyla (Hwyla-1.8.26-B41_1.12.2.jar)",
+            "fileID": 2568751,
+            "projectID": 253449,
+            "required": true
+        },
+        {
+            "alias": "Friendly Fire (FriendlyFire-1.12.2-1.5.12.jar)",
+            "fileID": 2758672,
+            "projectID": 255105,
+            "required": true
+        },
+        {
+            "alias": "Mo' Creatures (DrZharks MoCreatures Mod-12.0.5.jar)",
+            "fileID": 2628698,
+            "projectID": 229260,
+            "required": true
+        },
+        {
+            "alias": "Chicken Chunks 1.8.+ (ChickenChunks-1.12.2-2.4.2.74-universal.jar)",
+            "fileID": 2755785,
+            "projectID": 243883,
+            "required": true
+        },
+        {
+            "alias": "Corpse (corpse-1.12.2-1.0.6.jar)",
+            "fileID": 2837973,
+            "projectID": 316582,
+            "required": true
+        },
+        {
+            "alias": "Better Placement (BetterPlacement-1.0.0-1.jar)",
+            "fileID": 2481852,
+            "projectID": 278406,
+            "required": true
+        },
+        {
+            "alias": "PTRLib (PTRLib-1.0.4.jar)",
+            "fileID": 2685154,
+            "projectID": 291499,
+            "required": true
+        },
+        {
+            "alias": "Decocraft (Decocraft-2.6.3_1.12.2.jar)",
+            "fileID": 2777813,
+            "projectID": 79616,
+            "required": true
+        },
+        {
+            "alias": "Industrial Craft (industrialcraft-2-2.8.196-ex112.jar)",
+            "fileID": 2902679,
+            "projectID": 242638,
+            "required": true
+        },
+        {
+            "alias": "Resource Loader (ResourceLoader-MC1.12.1-1.5.3.jar)",
+            "fileID": 2477566,
+            "projectID": 226447,
+            "required": true
+        },
+        {
+            "alias": "Controlling (Controlling-3.0.8.jar)",
+            "fileID": 2857064,
+            "projectID": 250398,
+            "required": true
+        },
+        {
+            "alias": "NetherEx (NetherEx-1.12.2-2.1.1.jar)",
+            "fileID": 2902164,
+            "projectID": 248039,
+            "required": true
+        },
+        {
+            "alias": "BetterNether (betternether-0.1.8.6.jar)",
+            "fileID": 2859893,
+            "projectID": 311377,
+            "required": true
+        },
+        {
+            "alias": "LibraryEx (LibraryEx-1.12.2-1.1.2.jar)",
+            "fileID": 2918000,
+            "projectID": 298965,
+            "required": true
+        },
+        {
+            "alias": "EiraMoticons (EiraMoticons_1.12.2-6.4.0.jar)",
+            "fileID": 2884488,
+            "projectID": 230849,
+            "required": true
+        },
+        {
+            "alias": "SecretRoomsMod (secretroomsmod-1.12.2-5.6.4.jar)",
+            "fileID": 2561617,
+            "projectID": 59652,
+            "required": true
+        },
+        {
+            "alias": "Waystones (Waystones_1.12.2-4.1.0.jar)",
+            "fileID": 2859589,
+            "projectID": 245755,
+            "required": true
+        },
+        {
+            "alias": "Custom Mob Spawner (CustomMobSpawner-3.11.5.jar)",
+            "fileID": 2859433,
+            "projectID": 229261,
+            "required": true
+        }
+    ],
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "minecraft": {
+        "modLoaders": [
+            {
+                "id": "forge-14.23.5.2847",
+                "primary": true
+            }
+        ],
+        "version": "1.12.2"
+    },
+    "name": "jadpack",
+    "version": "1.0"
+}
