@@ -7,6 +7,6 @@
     "wave",
     "star_power"
   ],
-  "disableAnimations": false,
+  "disableAnimations": true,
   "enableSimpleModels": true
 }
