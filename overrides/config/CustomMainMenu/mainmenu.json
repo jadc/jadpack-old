@@ -76,7 +76,7 @@
         "mojang":
         {
             "text" : "v1.0b, by jadc",
-            "hoverText" : "§nby jadc",
+            "hoverText" : "§nv1.0b, by jadc",
             "posX" : -37,
             "posY" : 270,
             "color" : -1,
