@@ -440,8 +440,8 @@
             "required": true
         },
         {
-            "alias": "/dank/null (DankNull-1.12.2-1.7.90.jar)",
-            "fileID": 2915364,
+            "alias": "/dank/null (DankNull-1.12.2-1.7.91.jar)",
+            "fileID": 2920596,
             "projectID": 272514,
             "required": true
         },
@@ -524,8 +524,8 @@
             "required": true
         },
         {
-            "alias": "Thermal Dynamics (ThermalDynamics-1.12.2-2.5.5.21-universal.jar)",
-            "fileID": 2716138,
+            "alias": "Thermal Dynamics (ThermalDynamics-1.12.2-2.5.6.1-universal.jar)",
+            "fileID": 2920505,
             "projectID": 227443,
             "required": true
         },
@@ -542,8 +542,8 @@
             "required": true
         },
         {
-            "alias": "Thermal Expansion (ThermalExpansion-1.12.2-5.5.4.43-universal.jar)",
-            "fileID": 2715789,
+            "alias": "Thermal Expansion (ThermalExpansion-1.12.2-5.5.6.1-universal.jar)",
+            "fileID": 2920438,
             "projectID": 69163,
             "required": true
         },
@@ -650,26 +650,26 @@
             "required": true
         },
         {
-            "alias": "Thermal Foundation (ThermalFoundation-1.12.2-2.6.3.27-universal.jar)",
-            "fileID": 2715788,
+            "alias": "Thermal Foundation (ThermalFoundation-1.12.2-2.6.6.1-universal.jar)",
+            "fileID": 2920510,
             "projectID": 222880,
             "required": true
         },
         {
-            "alias": "CoFH Core (CoFHCore-1.12.2-4.6.3.27-universal.jar)",
-            "fileID": 2716100,
+            "alias": "CoFH Core (CoFHCore-1.12.2-4.6.6.1-universal.jar)",
+            "fileID": 2920433,
             "projectID": 69162,
             "required": true
         },
         {
-            "alias": "CoFH World (CoFHWorld-1.12.2-1.3.1.7-universal.jar)",
-            "fileID": 2715784,
+            "alias": "CoFH World (CoFHWorld-1.12.2-1.4.0.1-universal.jar)",
+            "fileID": 2920434,
             "projectID": 271384,
             "required": true
         },
         {
-            "alias": "Redstone Flux (RedstoneFlux-1.12-2.1.0.6-universal.jar)",
-            "fileID": 2623090,
+            "alias": "Redstone Flux (RedstoneFlux-1.12-2.1.1.1-universal.jar)",
+            "fileID": 2920436,
             "projectID": 270789,
             "required": true
         },
@@ -719,12 +719,6 @@
             "alias": "Decocraft (Decocraft-2.6.3_1.12.2.jar)",
             "fileID": 2777813,
             "projectID": 79616,
-            "required": true
-        },
-        {
-            "alias": "Industrial Craft (industrialcraft-2-2.8.196-ex112.jar)",
-            "fileID": 2902679,
-            "projectID": 242638,
             "required": true
         },
         {
@@ -780,6 +774,54 @@
             "fileID": 2859433,
             "projectID": 229261,
             "required": true
+        },
+        {
+            "alias": "Born in a Barn (Born In A Barn V1.8-1.12-1.1.jar)",
+            "fileID": 2641661,
+            "projectID": 285789,
+            "required": true
+        },
+        {
+            "alias": "Tick Dynamic (TickDynamic-1.12.2-1.0.2.jar)",
+            "fileID": 2737879,
+            "projectID": 269359,
+            "required": true
+        },
+        {
+            "alias": "Stackie (Stackie-1.12.2-1.6.0.48-universal.jar)",
+            "fileID": 2489553,
+            "projectID": 225606,
+            "required": true
+        },
+        {
+            "alias": "LunatriusCore (LunatriusCore-1.12.2-1.2.0.42-universal.jar)",
+            "fileID": 2489549,
+            "projectID": 225605,
+            "required": true
+        },
+        {
+            "alias": "Surge (Surge-1.12.2-2.0.79.jar)",
+            "fileID": 2916357,
+            "projectID": 250290,
+            "required": true
+        },
+        {
+            "alias": "Multithreaded Noise (MultithreadedNoise-1.12.2-0.0.2.jar)",
+            "fileID": 2642103,
+            "projectID": 307843,
+            "required": true
+        },
+        {
+            "alias": "Unloader (unloader-1.2.0.jar)",
+            "fileID": 2572528,
+            "projectID": 286230,
+            "required": true
+        },
+        {
+            "alias": "Patchouli (Patchouli-1.0-20.jar)",
+            "fileID": 2731963,
+            "projectID": 306770,
+            "required": true
         }
     ],
     "manifestType": "minecraftModpack",
@@ -794,5 +836,5 @@
         "version": "1.12.2"
     },
     "name": "jadpack",
-    "version": "1.0b"
+    "version": "1.0"
 }
