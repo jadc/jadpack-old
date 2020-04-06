@@ -80,8 +80,8 @@
             "required": true
         },
         {
-            "alias": "Xaero's Minimap (Xaeros_Minimap_20.5.2_Forge_1.12.jar)",
-            "fileID": 2904483,
+            "alias": "Xaero's Minimap (Xaeros_Minimap_20.6.0_Forge_1.12.jar)",
+            "fileID": 2921688,
             "projectID": 263420,
             "required": true
         },
@@ -626,8 +626,8 @@
             "required": true
         },
         {
-            "alias": "EnderCore (EnderCore-1.12.2-0.5.74.jar)",
-            "fileID": 2861615,
+            "alias": "EnderCore (EnderCore-1.12.2-0.5.75.jar)",
+            "fileID": 2922886,
             "projectID": 231868,
             "required": true
         },
@@ -651,7 +651,7 @@
         },
         {
             "alias": "Thermal Foundation (ThermalFoundation-1.12.2-2.6.6.1-universal.jar)",
-            "fileID": 2920510,
+            "fileID": 2920504,
             "projectID": 222880,
             "required": true
         },
@@ -695,12 +695,6 @@
             "alias": "Chicken Chunks 1.8.+ (ChickenChunks-1.12.2-2.4.2.74-universal.jar)",
             "fileID": 2755785,
             "projectID": 243883,
-            "required": true
-        },
-        {
-            "alias": "Corpse (corpse-1.12.2-1.0.6.jar)",
-            "fileID": 2837973,
-            "projectID": 316582,
             "required": true
         },
         {
@@ -822,6 +816,24 @@
             "fileID": 2731963,
             "projectID": 306770,
             "required": true
+        },
+        {
+            "alias": "OpenBlocks (OpenBlocks-1.12.2-1.8.1.jar)",
+            "fileID": 2699056,
+            "projectID": 228816,
+            "required": true
+        },
+        {
+            "alias": "Tomb Many Graves 2 (TombManyGraves-1.12-4.2.0.jar)",
+            "fileID": 2619249,
+            "projectID": 262823,
+            "required": true
+        },
+        {
+            "alias": "OpenModsLib (OpenModsLib-1.12.2-0.12.2.jar)",
+            "fileID": 2699055,
+            "projectID": 228815,
+            "required": true
         }
     ],
     "manifestType": "minecraftModpack",
@@ -836,5 +848,5 @@
         "version": "1.12.2"
     },
     "name": "jadpack",
-    "version": "1.0"
+    "version": "1.2"
 }
